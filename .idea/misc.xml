@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/drawable-v24/btn_gradient_style.xml" value="0.1275" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/drawable-v24/ic_arrow_forward_black_24dp.xml" value="0.1275" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/drawable/btn_gradient_style.xml" value="0.1275" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/drawable/buttongradientwelcome.xml" value="0.1275" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/drawable/indicator_default.xml" value="0.1275" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/font/alegreya.xml" value="0.2361111111111111" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/layout/activity_admin_category.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/layout/activity_intro.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/layout/activity_login.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/layout/activity_login_admin.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/layout/activity_main.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/layout/activity_register.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/layout/activity_register_three.xml" value="0.2109375" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/layout/activity_register_two.xml" value="0.21197916666666666" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/layout/activity_splash.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/layout/activity_store_main.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/layout/activity_verify_phone.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/layout/activity_welcome.xml" value="0.22" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/layout/content_main.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/layout/fragment_about_us.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/layout/fragment_product_details.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/layout/fragment_profile.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/layout/layout_screen.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/layout/nav_header_main.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/layout/product_items_layout.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/layout/row_item.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/layout/slider_layout.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/layout/store_layout.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/menu/activity_main_drawer.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/CollegeProjects/eCom/app/src/main/res/menu/main.xml" value="0.22552083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
